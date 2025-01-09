@@ -1,4 +1,4 @@
-import { catsData } from '/data.js'
+import { catsData } from "/Users/hulio/Desktop/Sites/CatEmotionsMemeSite/files/data"
 
 const emotionRadios = document.getElementById('emotion-radios')
 const getImagesBtn = document.getElementById('get-image-btn')
